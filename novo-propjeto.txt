@@ -2,4 +2,4 @@ codigos inciais
 
 feature bem grande
 
-featuire do saulo
+feature do saulo
